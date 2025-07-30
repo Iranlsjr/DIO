@@ -1,13 +1,13 @@
 ﻿using ExemplosFundamentos.Models;
 
-//classes -------
+//CLASSES
 //Pessoa pessoa1 = new Pessoa();
 
 //pessoa1.Nome = "Iran";
 //pessoa1.Idade = 32;
 //pessoa1.Apresentar();
 
-//Variáveis ---------
+//VARIÁVEIS
 //string apresentacao = "Olá, seja bem vindo";
 //int quantidade = 1;
 //quantidade = 10;
@@ -21,10 +21,23 @@
 //Console.WriteLine("Valor da variável preço: " + preco);
 //Console.WriteLine("Valor da variável condição: " + condicao);
 
-//Date Time
-DateTime dataAtual = DateTime.Now;
-Console.WriteLine(dataAtual);
-Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+//DATETIME
+//DateTime dataAtual = DateTime.Now;
+//Console.WriteLine(dataAtual);
+//Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
 //adicionando mais dias
-DateTime dataAtualDias = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtualDias.ToString("dd/MM/yyyy"));
+//DateTime dataAtualDias = DateTime.Now.AddDays(5);
+//Console.WriteLine(dataAtualDias.ToString("dd/MM/yyyy"));
+
+
+
+//OPERADORES
+
+// int a = 10;
+// int b = 20;
+// int c = a + b;
+// //c = c + 5; 
+// c += 5;
+// c -= 5;
+// Console.WriteLine(c);
+
