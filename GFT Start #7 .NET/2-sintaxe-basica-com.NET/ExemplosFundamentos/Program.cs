@@ -7,6 +7,7 @@ calc.Somar(5, 6);
 calc.Subtrair(5, 6);
 calc.Multiplicar(5, 6);
 calc.Dividir(5, 6);
+calc.Potencia(3, 3);
 
 //CLASSES
 //Pessoa pessoa1 = new Pessoa();
