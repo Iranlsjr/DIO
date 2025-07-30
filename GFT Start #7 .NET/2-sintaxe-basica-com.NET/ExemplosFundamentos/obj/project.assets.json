@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irani\\Desktop\\ExemplosFundamentos\\ExemplosFundamentos.csproj",
+      "projectUniqueName": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemplosFundamentos\\ExemplosFundamentos.csproj",
       "projectName": "ExemplosFundamentos",
-      "projectPath": "C:\\Users\\irani\\Desktop\\ExemplosFundamentos\\ExemplosFundamentos.csproj",
+      "projectPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemplosFundamentos\\ExemplosFundamentos.csproj",
       "packagesPath": "C:\\Users\\irani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irani\\Desktop\\ExemplosFundamentos\\obj\\",
+      "outputPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemplosFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irani\\AppData\\Roaming\\NuGet\\NuGet.Config"
