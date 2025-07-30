@@ -1,0 +1,14 @@
+C:\Users\irani\Desktop\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.exe
+C:\Users\irani\Desktop\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.deps.json
+C:\Users\irani\Desktop\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.runtimeconfig.json
+C:\Users\irani\Desktop\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.dll
+C:\Users\irani\Desktop\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.pdb
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.AssemblyInfo.cs
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.dll
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\refint\ExemplosFundamentos.dll
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.pdb
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.genruntimeconfig.cache
+C:\Users\irani\Desktop\ExemplosFundamentos\obj\Debug\net9.0\ref\ExemplosFundamentos.dll
