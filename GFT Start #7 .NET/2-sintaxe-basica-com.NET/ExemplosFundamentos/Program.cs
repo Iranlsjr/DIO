@@ -1,4 +1,5 @@
-﻿using ExemplosFundamentos.Models;
+﻿using System.Reflection.Metadata;
+using ExemplosFundamentos.Models;
 
 //CLASSES
 //Pessoa pessoa1 = new Pessoa();
@@ -92,21 +93,61 @@
 
 // SWITCH CASE
 
-Console.WriteLine("Digite uma  letra");
-string letra = Console.ReadLine() ?? "";
+// Console.WriteLine("Digite uma  letra");
+// string letra = Console.ReadLine() ?? "";
 
-switch (letra)
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//         Console.WriteLine("Vogal");
+//         break;
+//     default:
+//         Console.WriteLine("Não é uma vogal.");
+//         break;
+
+// }
+
+//OPERADORES LOGICOS (OR = ||) 
+
+// bool ehMaiorDeIdade = true;
+// bool possuiAutorizacaoDoResponsavel = false;
+
+// if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+// {
+//     Console.WriteLine("Entrada liberada.");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada não liberada");
+// }
+
+//(AND = &&) 
+
+// bool possuiPresencaMinima = true;
+// double media = 7.5;
+
+// if (possuiPresencaMinima && media >= 7)
+// {
+//     Console.WriteLine("Aprovado!");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado!");
+// }
+
+//( NOT = !)
+bool choveu = false;
+bool estaTarde = false;
+
+if (!choveu && !estaTarde)
 {
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-        Console.WriteLine("Vogal");
-        break;
-    default:
-        Console.WriteLine("Não é uma vogal.");
-        break;
-        
+    Console.WriteLine("Vou pedalar");
 }
-
+else
+{
+    Console.WriteLine("Vou pedalar um outro dia");
+}
