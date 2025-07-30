@@ -8,6 +8,9 @@ calc.Subtrair(5, 6);
 calc.Multiplicar(5, 6);
 calc.Dividir(5, 6);
 calc.Potencia(3, 3);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);
 
 //CLASSES
 //Pessoa pessoa1 = new Pessoa();
