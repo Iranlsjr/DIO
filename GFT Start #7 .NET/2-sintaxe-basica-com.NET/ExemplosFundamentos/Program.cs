@@ -60,8 +60,32 @@
 
 
 //CONVERTENDO DA FORMA SEGURA
-string a = "15-";
-int b = 0;
-int.TryParse(a, out b);
-Console.WriteLine(b);
+// string a = "15-";
+// int b = 0;
+// int.TryParse(a, out b);
+// Console.WriteLine(b);
 
+//OPERADORES CONDICIONAIS
+
+int quantidadeEmEstoque = 10;
+int quantidadeCompra = 0;
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade em compra: {quantidadeCompra}");
+Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+if (quantidadeCompra == 0)
+{
+    Console.WriteLine("Selecione a quantidade desejada.");
+}
+
+else if (possivelVenda)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+}
