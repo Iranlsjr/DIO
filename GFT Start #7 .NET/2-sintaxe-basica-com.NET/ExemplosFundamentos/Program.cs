@@ -1,6 +1,13 @@
 ﻿using System.Reflection.Metadata;
 using ExemplosFundamentos.Models;
 
+Calculadora calc = new Calculadora();
+
+calc.Somar(5, 6);
+calc.Subtrair(5, 6);
+calc.Multiplicar(5, 6);
+calc.Dividir(5, 6);
+
 //CLASSES
 //Pessoa pessoa1 = new Pessoa();
 
@@ -140,14 +147,15 @@ using ExemplosFundamentos.Models;
 // }
 
 //( NOT = !)
-bool choveu = false;
-bool estaTarde = false;
+// bool choveu = false;
+// bool estaTarde = false;
 
-if (!choveu && !estaTarde)
-{
-    Console.WriteLine("Vou pedalar");
-}
-else
-{
-    Console.WriteLine("Vou pedalar um outro dia");
-}
+// if (!choveu && !estaTarde)
+// {
+//     Console.WriteLine("Vou pedalar");
+// }
+// else
+// {
+//     Console.WriteLine("Vou pedalar um outro dia");
+// }
+
