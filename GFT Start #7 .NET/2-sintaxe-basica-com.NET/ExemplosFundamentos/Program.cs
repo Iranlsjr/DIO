@@ -41,3 +41,27 @@
 // c -= 5;
 // Console.WriteLine(c);
 
+//CONVERTENDO VARIÁVEIS Cast - Casting
+
+//inteiros
+//int a = Convert.ToInt32("5");
+//int a = int.Parse("5");
+//Console.WriteLine(a);
+
+//String
+//int inteiro = 5;
+//string a = inteiro.ToString();
+//Console.WriteLine(a);
+
+//Implicito
+// int a = 5;
+// double b = a;
+// Console.WriteLine(b);
+
+
+//CONVERTENDO DA FORMA SEGURA
+string a = "15-";
+int b = 0;
+int.TryParse(a, out b);
+Console.WriteLine(b);
+
