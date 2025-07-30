@@ -1,29 +1,29 @@
 ﻿using System.Reflection.Metadata;
 using ExemplosFundamentos.Models;
 
-Calculadora calc = new Calculadora();
+// Calculadora calc = new Calculadora();
 
-calc.Somar(5, 6);
-calc.Subtrair(5, 6);
-calc.Multiplicar(5, 6);
-calc.Dividir(5, 6);
-calc.Potencia(3, 3);
-calc.Seno(30);
-calc.Coseno(30);
-calc.Tangente(30);
-calc.RaizQuadrada(9);
+// calc.Somar(5, 6);
+// calc.Subtrair(5, 6);
+// calc.Multiplicar(5, 6);
+// calc.Dividir(5, 6);
+// calc.Potencia(3, 3);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+// calc.RaizQuadrada(9);
 
-int numeroIncremento = 10;
-Console.WriteLine(numeroIncremento);
-Console.WriteLine("Incrementando o 10 ");
+// int numeroIncremento = 10;
+// Console.WriteLine(numeroIncremento);
+// Console.WriteLine("Incrementando o 10 ");
 //numero = numero+ 1;
-numeroIncremento++;
-Console.WriteLine(numeroIncremento);
+// numeroIncremento++;
+// Console.WriteLine(numeroIncremento);
 
-int numeroDecremento = 20;
-Console.WriteLine("Decrementando o 20 ");
-numeroDecremento--;
-Console.WriteLine(numeroDecremento);
+// int numeroDecremento = 20;
+// Console.WriteLine("Decrementando o 20 ");
+// numeroDecremento--;
+// Console.WriteLine(numeroDecremento);
 
 
 
@@ -179,3 +179,12 @@ Console.WriteLine(numeroDecremento);
 //     Console.WriteLine("Vou pedalar um outro dia");
 // }
 
+//LAÇOS DE REPETIÇÃO FOR
+
+int numero = 5;
+
+for (int contador = 0; contador <= 10; contador++)
+{
+Console.WriteLine($"{numero} x {contador} = { numero * contador}");
+    
+}
