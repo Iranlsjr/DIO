@@ -254,11 +254,12 @@
 
 //ARRAYS
 
-int[] arrayInteiros = new int[3];
+int[] arrayInteiros = new int[4];
 
 arrayInteiros[0] = 72;
 arrayInteiros[1] = 64;
 arrayInteiros[2] = 50;
+arrayInteiros[2] = 1;
 
 //Percorrendo Array com FOR
 Console.WriteLine("Percorrendo Array com FOR");
@@ -268,11 +269,16 @@ for (int contador = 0; contador < arrayInteiros.Length; contador++)
     Console.WriteLine($"Posição N {contador} - {arrayInteiros[contador]}");
 }
 
+//Redimensionando Array
+Array.Resize(ref arrayInteiros, arrayInteiros.Length *2)
+
+
+
 //Percorrendo Array com FOREACH
-Console.WriteLine("Percorrendo Array com FOREACH");
-foreach (int valor in arrayInteiros)
-{
-    Console.WriteLine(valor);
-}
+// Console.WriteLine("Percorrendo Array com FOREACH");
+// foreach (int valor in arrayInteiros)
+// {
+//     Console.WriteLine(valor);
+// }
 
 
