@@ -286,3 +286,24 @@
 // }
 
 
+//Trabalhando com listas
+
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+
+for (int contador = 0; contador < listaString.Count; contador++)
+{
+    Console.WriteLine($"Posição N {contador} - {listaString[contador]}");
+}
+
+int contadorForeach = 0;
+Console.WriteLine("----------Percorrendo com ForEach----------");
+foreach (string item in listaString)
+{
+    Console.WriteLine($"Posição N {contadorForeach} - {item}");
+    contadorForeach++;
+
+}
