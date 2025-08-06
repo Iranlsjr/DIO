@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\irani\\.nuget\\packages\\",
-        "outputPath": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irani\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,14 +54,14 @@
         }
       }
     },
-    "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\irani\\.nuget\\packages\\",
-        "outputPath": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
+        "outputPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irani\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -73,8 +73,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-                "projectPath": "d:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+              "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+                "projectPath": "D:\\DIO\\GFT Start #7 .NET\\2-sintaxe-basica-com.NET\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
               }
             }
           }

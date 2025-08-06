@@ -254,23 +254,27 @@
 
 //ARRAYS
 
-int[] arrayInteiros = new int[4];
+// int[] arrayInteiros = new int[4];
 
-arrayInteiros[0] = 72;
-arrayInteiros[1] = 64;
-arrayInteiros[2] = 50;
-arrayInteiros[2] = 1;
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[2] = 1;
+
+//Copiando um Array para outro
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
 
 //Percorrendo Array com FOR
-Console.WriteLine("Percorrendo Array com FOR");
+// Console.WriteLine("Percorrendo Array com FOR");
 
-for (int contador = 0; contador < arrayInteiros.Length; contador++)
-{
-    Console.WriteLine($"Posição N {contador} - {arrayInteiros[contador]}");
-}
+// for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N {contador} - {arrayInteiros[contador]}");
+// }
 
 //Redimensionando Array
-Array.Resize(ref arrayInteiros, arrayInteiros.Length *2)
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
 
 
