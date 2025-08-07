@@ -1,0 +1,6 @@
+Criar sistema para um estacionamento
+
+ Adicionar e remover um veiculo
+ listrar os veiculos estacionados 
+  depois de remover o veiculo dar o preco ao usuario.
+  
